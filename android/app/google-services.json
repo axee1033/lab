@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576566019526",
+    "project_id": "xlab-f8b06",
+    "storage_bucket": "xlab-f8b06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576566019526:android:cd6c133983f37161a7dec7",
+        "android_client_info": {
+          "package_name": "com.example.xlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576566019526-de5007saushoa1ucb007pm9kogm1jgj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xlab",
+            "certificate_hash": "5409554f31b96456e37f5bd8167f2022edf6be15"
+          }
+        },
+        {
+          "client_id": "576566019526-33hbkpsv69ha91gumi0m41kqgp54293c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIC9wD7XFJwARIrUDVEis3pV19b7RLifg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576566019526-33hbkpsv69ha91gumi0m41kqgp54293c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
