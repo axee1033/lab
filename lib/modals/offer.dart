@@ -4,10 +4,10 @@ import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
 class Offer {
-  final String title;
-  final String imageUrl;
-  final String preview;
-  final String details;
+  String title;
+  String imageUrl;
+  String preview;
+  String details;
 
   Offer(
       {@required this.title,

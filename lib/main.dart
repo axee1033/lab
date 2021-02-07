@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:xlab/screens/admin-screens/image_upload_tester.dart';
 
 import './screens/admin-screens/add_new_branch_Screen.dart';
 import './screens/admin-screens/add_new_offer_screen.dart';
@@ -50,6 +51,7 @@ class MyApp extends StatelessWidget {
         NewBranch.routeName :(ctx) =>NewBranch(),
         NewOffer.routeName : (ctx) =>NewOffer(), 
         AdminSigninScreen.routeName:(ctx) =>AdminSigninScreen(),
+        ImageUplaoder.routeName :(ctx) =>ImageUplaoder(),
       },
     );
   }
